@@ -6,6 +6,8 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="streamtape-api", 
     version="1.0",
+    author="whomiri",
+    author_tg="https://t.me/themiri",
     description="Python icin Streamtape api",
     long_description=long_description,
     long_description_content_type="text/markdown",
